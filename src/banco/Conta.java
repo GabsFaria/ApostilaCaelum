@@ -21,7 +21,7 @@ public class Conta {
 		if(valor>0) {
 			this.saldo += valor;
 		} else {
-			System.out.println("Número inválido!");
+			System.out.println("Numero invalido!");
 		}
 	}
 	
@@ -35,7 +35,7 @@ public class Conta {
 						"Agencia: "+ this.getAgencia()+"\n"+
 						"Data de abertura: "+this.getDataDeAbertura()+"\n"+
 						"O valor do saldo e "+this.getSaldo()+"\n";
-		System.out.println(dados);
+		System.out.print(dados);
 		System.out.println("O rendimento foi de "+this.calculaRendimento());
 	}
 	
