@@ -1,4 +1,4 @@
-package laços;
+package lacos;
 
 import javax.swing.JOptionPane;
 

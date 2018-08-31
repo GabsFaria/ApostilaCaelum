@@ -1,4 +1,4 @@
-package laços;
+package lacos;
 
 //Fibonacci	usando	apenas	duas variáveis.
 

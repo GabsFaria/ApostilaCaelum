@@ -1,4 +1,4 @@
-package laços;
+package lacos;
 
 public class MultiplosDeTres {
 	
